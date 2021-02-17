@@ -1,0 +1,357 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta content="9fd9bdd2-c27a-4c48-808a-7087da5759de" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (3.40.1)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>The Marx-Engels Reader (Second Edition)</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="num_1" playOrder="1">
+      <navLabel>
+        <text>Preface to the Second Edition</text>
+      </navLabel>
+      <content src="text/part0001.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_2" playOrder="2">
+      <navLabel>
+        <text>Chronology: The Lives of Marx and Engels</text>
+      </navLabel>
+      <content src="text/part0002.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_3" playOrder="3">
+      <navLabel>
+        <text>Introduction</text>
+      </navLabel>
+      <content src="text/part0003.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_4" playOrder="4">
+      <navLabel>
+        <text>Note on Texts and Terminology</text>
+      </navLabel>
+      <content src="text/part0004.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_5" playOrder="5">
+      <navLabel>
+        <text>PART I. The Early Marx</text>
+      </navLabel>
+      <content src="text/part0005.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_6" playOrder="6">
+      <navLabel>
+        <text>Marx on the History of His Opinions (Preface to A Contribution to the Critique of Political Economy)</text>
+      </navLabel>
+      <content src="text/part0006_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_7" playOrder="7">
+      <navLabel>
+        <text>Discovering Hegel (Marx to his father)</text>
+      </navLabel>
+      <content src="text/part0007_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_8" playOrder="8">
+      <navLabel>
+        <text>To Make the World Philosophical (from Marx’s doctoral dissertation)</text>
+      </navLabel>
+      <content src="text/part0008_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_9" playOrder="9">
+      <navLabel>
+        <text>For a Ruthless Criticism of Everything Existing (Marx to Arnold Ruge)</text>
+      </navLabel>
+      <content src="text/part0009_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_10" playOrder="10">
+      <navLabel>
+        <text>Contribution to the Critique of Hegel’s Philosophy of Right</text>
+      </navLabel>
+      <content src="text/part0010_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_11" playOrder="11">
+      <navLabel>
+        <text>On the Jewish Question</text>
+      </navLabel>
+      <content src="text/part0011_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_12" playOrder="12">
+      <navLabel>
+        <text>Contribution of the Critique of Hegel’s Philosophy of Right: Introduction</text>
+      </navLabel>
+      <content src="text/part0012_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_13" playOrder="13">
+      <navLabel>
+        <text>Economic and Philosophic Manuscripts of 1844</text>
+      </navLabel>
+      <content src="text/part0013_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_14" playOrder="14">
+      <navLabel>
+        <text>Critical Marginal Notes on the Article “The King of Prussia and Social Reform”</text>
+      </navLabel>
+      <content src="text/part0014_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_15" playOrder="15">
+      <navLabel>
+        <text>Alienation and Social Classes</text>
+      </navLabel>
+      <content src="text/part0015_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_16" playOrder="16">
+      <navLabel>
+        <text>Society and Economy in History</text>
+      </navLabel>
+      <content src="text/part0016_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_17" playOrder="17">
+      <navLabel>
+        <text>Theses on Feuerbach</text>
+      </navLabel>
+      <content src="text/part0017_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_18" playOrder="18">
+      <navLabel>
+        <text>The German Ideology: Part I</text>
+      </navLabel>
+      <content src="text/part0018_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_19" playOrder="19">
+      <navLabel>
+        <text>PART II. The Critique of Capitalism</text>
+      </navLabel>
+      <content src="text/part0019.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_20" playOrder="20">
+      <navLabel>
+        <text>Wage Labour and Capital</text>
+      </navLabel>
+      <content src="text/part0020_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_21" playOrder="21">
+      <navLabel>
+        <text>The Coming Upheaval</text>
+      </navLabel>
+      <content src="text/part0021_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_22" playOrder="22">
+      <navLabel>
+        <text>Class Struggle and Mode of Production</text>
+      </navLabel>
+      <content src="text/part0022_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_23" playOrder="23">
+      <navLabel>
+        <text>The Grundrisse</text>
+      </navLabel>
+      <content src="text/part0023_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_24" playOrder="24">
+      <navLabel>
+        <text>Capital, Volume One</text>
+      </navLabel>
+      <content src="text/part0024_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_25" playOrder="25">
+      <navLabel>
+        <text>Capital, Volume Three</text>
+      </navLabel>
+      <content src="text/part0025_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_26" playOrder="26">
+      <navLabel>
+        <text>Crisis Theory</text>
+      </navLabel>
+      <content src="text/part0026_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_27" playOrder="27">
+      <navLabel>
+        <text>PART III: Revolutionary Program and Strategy</text>
+      </navLabel>
+      <content src="text/part0027.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_28" playOrder="28">
+      <navLabel>
+        <text>Manifesto of the Communist Party</text>
+      </navLabel>
+      <content src="text/part0028_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_29" playOrder="29">
+      <navLabel>
+        <text>Address of the Central Committee to the Communist League</text>
+      </navLabel>
+      <content src="text/part0029_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_30" playOrder="30">
+      <navLabel>
+        <text>Inaugural Address of the Working Men’s International Association</text>
+      </navLabel>
+      <content src="text/part0030_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_31" playOrder="31">
+      <navLabel>
+        <text>Economics and Politics in the Labor Movement</text>
+      </navLabel>
+      <content src="text/part0031_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_32" playOrder="32">
+      <navLabel>
+        <text>Against Personality Cults</text>
+      </navLabel>
+      <content src="text/part0032_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_33" playOrder="33">
+      <navLabel>
+        <text>The Possibility of Non-Violent Revolution</text>
+      </navLabel>
+      <content src="text/part0033_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_34" playOrder="34">
+      <navLabel>
+        <text>Critique of the Gotha Program</text>
+      </navLabel>
+      <content src="text/part0034_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_35" playOrder="35">
+      <navLabel>
+        <text>After the Revolution: Marx Debates Bakunin</text>
+      </navLabel>
+      <content src="text/part0035_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_36" playOrder="36">
+      <navLabel>
+        <text>Circular Letter to Bebel, Liebknecht, Bracke; and Others</text>
+      </navLabel>
+      <content src="text/part0036_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_37" playOrder="37">
+      <navLabel>
+        <text>The Tactics of Social Democracy</text>
+      </navLabel>
+      <content src="text/part0037_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_38" playOrder="38">
+      <navLabel>
+        <text>PART IV: Society and Politics in the Nineteenth Century</text>
+      </navLabel>
+      <content src="text/part0038.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_39" playOrder="39">
+      <navLabel>
+        <text>Speech at the Anniversary of the People’s Paper</text>
+      </navLabel>
+      <content src="text/part0039_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_40" playOrder="40">
+      <navLabel>
+        <text>Working-Class Manchester</text>
+      </navLabel>
+      <content src="text/part0040_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_41" playOrder="41">
+      <navLabel>
+        <text>The Class Struggle in France, 1848–1850</text>
+      </navLabel>
+      <content src="text/part0041_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_42" playOrder="42">
+      <navLabel>
+        <text>The Eighteenth Brumaire of Louis Bonaparte</text>
+      </navLabel>
+      <content src="text/part0042_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_43" playOrder="43">
+      <navLabel>
+        <text>The Civil War in France</text>
+      </navLabel>
+      <content src="text/part0043_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_44" playOrder="44">
+      <navLabel>
+        <text>On Imperialism in India</text>
+      </navLabel>
+      <content src="text/part0044_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_45" playOrder="45">
+      <navLabel>
+        <text>On Social Relations in Russia</text>
+      </navLabel>
+      <content src="text/part0045_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_46" playOrder="46">
+      <navLabel>
+        <text>Europocentric World Revolution</text>
+      </navLabel>
+      <content src="text/part0046_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_47" playOrder="47">
+      <navLabel>
+        <text>PART V: The Later Engels: Elaboration and Popularization</text>
+      </navLabel>
+      <content src="text/part0047.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_48" playOrder="48">
+      <navLabel>
+        <text>Speech at the Graveside of Karl Marx</text>
+      </navLabel>
+      <content src="text/part0048_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_49" playOrder="49">
+      <navLabel>
+        <text>Socialism: Utopian and Scientific</text>
+      </navLabel>
+      <content src="text/part0049_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_50" playOrder="50">
+      <navLabel>
+        <text>On the Division of Labour in Production</text>
+      </navLabel>
+      <content src="text/part0050_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_51" playOrder="51">
+      <navLabel>
+        <text>On Morality</text>
+      </navLabel>
+      <content src="text/part0051_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_52" playOrder="52">
+      <navLabel>
+        <text>Versus the Anarchists</text>
+      </navLabel>
+      <content src="text/part0052_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_53" playOrder="53">
+      <navLabel>
+        <text>On Authority</text>
+      </navLabel>
+      <content src="text/part0053_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_54" playOrder="54">
+      <navLabel>
+        <text>The Origin of the Family, Private Property, and the State</text>
+      </navLabel>
+      <content src="text/part0054_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_55" playOrder="55">
+      <navLabel>
+        <text>Letters on Historical Materialism</text>
+      </navLabel>
+      <content src="text/part0055_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_56" playOrder="56">
+      <navLabel>
+        <text>Bibliographic Note</text>
+      </navLabel>
+      <content src="text/part0056_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_57" playOrder="57">
+      <navLabel>
+        <text>Footnotes</text>
+      </navLabel>
+      <content src="text/part0057.html"/>
+    </navPoint>
+  </navMap>
+</ncx>
