@@ -1,0 +1,226 @@
+<package xmlns="http://www.idpf.org/2007/opf" prefix="schema: http://schema.org/ rendition: http://www.idpf.org/vocab/rendition/# ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/" unique-identifier="EbookISBN" version="3.0" xml:lang="en-US">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+		<dc:title id="maintitle">Overcoming Dyslexia (2020 Edition)</dc:title>
+		<meta property="title-type" refines="#maintitle">main</meta>
+		<meta property="display-seq" refines="#maintitle">1</meta>
+		<dc:title id="subtitle">A New and Complete Science-Based Program for Reading Problems at Any Level</dc:title>
+		<meta property="title-type" refines="#subtitle">subtitle</meta>
+		<meta property="display-seq" refines="#subtitle">2</meta>
+		<dc:language>en-US</dc:language>
+		<dc:identifier id="EbookISBN">9780307558893</dc:identifier>
+		<dc:source id="SourceISBN">9780679781592</dc:source>
+		<meta content="Vintage" name="imprint"/>
+		<dc:creator id="creator1">Sally Shaywitz, M.D.</dc:creator>
+		<meta property="display-seq" refines="#creator1">1</meta>
+		<meta property="role" refines="#creator1" scheme="marc:relators">aut</meta>
+		<meta property="file-as" refines="#creator1">Shaywitz, Sally</meta>
+		<dc:publisher>Knopf Doubleday Publishing Group</dc:publisher>
+		<meta property="dcterms:modified">2020-03-10T17:46:41Z</meta>
+		<dc:date>2008-12-24</dc:date>
+		<meta content="2020-03-06T00:00:00Z" name="created"/>
+		<meta content="Aptara v5.4" name="generator"/>
+		<dc:rights>Copyright © 2020 by Sally Shaywitz, M.D.</dc:rights>
+		<meta content="cover-image" name="cover"/>
+		<meta property="ibooks:specified-fonts">true</meta>
+		<meta property="schema:accessMode">textual</meta>
+		<meta property="schema:accessMode">visual</meta>
+		<meta property="schema:accessModeSufficient">textual,visual</meta>
+		<meta property="schema:accessibilityFeature">displayTransformability</meta>
+		<meta property="schema:accessibilityFeature">tableOfContents</meta>
+		<meta property="schema:accessibilityFeature">bookmarks</meta>
+		<meta property="schema:accessibilityHazard">none</meta>
+		<meta property="schema:accessibilitySummary">Accessibility metadata derived programmatically based on file type.</meta>
+		<meta content="1.1" name="EPUB_Scrub_version"/>
+		<meta content="2020-03-10T17:46:42Z" name="EPUB_Scrub_date"/>
+	<description xmlns="http://purl.org/dc/elements/1.1/">&lt;b&gt;From one of the world's preeminent experts on reading and dyslexia, the most comprehensive, up-to-date, and practical book available on identifying, understanding, and overcoming reading problems&amp;#8212;now revised to reflect the latest research and evidence-based approaches.&lt;/b&gt;&lt;br&gt;Dyslexia is the most common learning disorder on the planet, affecting about one in five individuals, regardless of age or gender. Now a world-renowned expert gives us a substantially updated and augmented edition of her classic work: drawing on an additional fifteen years of cutting-edge research, offering new information on all aspects of dyslexia and reading problems, and providing the tools that parents, teachers, and all dyslexic individuals need. This new edition also offers:&lt;br&gt; &amp;bull; New material on the challenges faced by dyslexic individuals across all ages&lt;br&gt; &amp;bull; Rich information on ongoing advances in digital technology that have dramatically increased dyslexics' ability to help...</description>
+</metadata>
+	<manifest>
+		<item href="9780307558893_nav.xhtml" id="nav" media-type="application/xhtml+xml" properties="nav"/>
+		<item href="9780307558893_ncx.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+		<item href="xhtml/Shay_9780307558893_epub3_cvi_r1.xhtml" id="cvi" media-type="application/xhtml+xml"/>
+		<item href="xhtml/Shay_9780307558893_epub3_fm1_r1.xhtml" id="fm1" media-type="application/xhtml+xml"/>
+		<item href="xhtml/Shay_9780307558893_epub3_ata_r1.xhtml" id="ata" media-type="application/xhtml+xml"/>
+		<item href="xhtml/Shay_9780307558893_epub3_tp_r1.xhtml" id="tp" media-type="application/xhtml+xml"/>
+		<item href="xhtml/Shay_9780307558893_epub3_cop_r1.xhtml" id="cop" media-type="application/xhtml+xml"/>
+		<item href="xhtml/Shay_9780307558893_epub3_ded_r1.xhtml" id="ded" media-type="application/xhtml+xml"/>
+		<item href="xhtml/Shay_9780307558893_epub3_toc_r1.xhtml" id="toc" media-type="application/xhtml+xml"/>
+		<item href="xhtml/Shay_9780307558893_epub3_p01_r1.xhtml" id="p01" media-type="application/xhtml+xml"/>
+		<item href="xhtml/Shay_9780307558893_epub3_c01_r1.xhtml" id="c01" media-type="application/xhtml+xml"/>
+		<item href="xhtml/Shay_9780307558893_epub3_c02_r1.xhtml" id="c02" media-type="application/xhtml+xml"/>
+		<item href="xhtml/Shay_9780307558893_epub3_c03_r1.xhtml" id="c03" media-type="application/xhtml+xml"/>
+		<item href="xhtml/Shay_9780307558893_epub3_c04_r1.xhtml" id="c04" media-type="application/xhtml+xml"/>
+		<item href="xhtml/Shay_9780307558893_epub3_c05_r1.xhtml" id="c05" media-type="application/xhtml+xml"/>
+		<item href="xhtml/Shay_9780307558893_epub3_c06_r1.xhtml" id="c06" media-type="application/xhtml+xml"/>
+		<item href="xhtml/Shay_9780307558893_epub3_c07_r1.xhtml" id="c07" media-type="application/xhtml+xml"/>
+		<item href="xhtml/Shay_9780307558893_epub3_p02_r1.xhtml" id="p02" media-type="application/xhtml+xml"/>
+		<item href="xhtml/Shay_9780307558893_epub3_c08_r1.xhtml" id="c08" media-type="application/xhtml+xml"/>
+		<item href="xhtml/Shay_9780307558893_epub3_c09_r1.xhtml" id="c09" media-type="application/xhtml+xml"/>
+		<item href="xhtml/Shay_9780307558893_epub3_c10_r1.xhtml" id="c10" media-type="application/xhtml+xml"/>
+		<item href="xhtml/Shay_9780307558893_epub3_c11_r1.xhtml" id="c11" media-type="application/xhtml+xml"/>
+		<item href="xhtml/Shay_9780307558893_epub3_c12_r1.xhtml" id="c12" media-type="application/xhtml+xml"/>
+		<item href="xhtml/Shay_9780307558893_epub3_c13_r1.xhtml" id="c13" media-type="application/xhtml+xml"/>
+		<item href="xhtml/Shay_9780307558893_epub3_c14_r1.xhtml" id="c14" media-type="application/xhtml+xml"/>
+		<item href="xhtml/Shay_9780307558893_epub3_c15_r1.xhtml" id="c15" media-type="application/xhtml+xml"/>
+		<item href="xhtml/Shay_9780307558893_epub3_p03_r1.xhtml" id="p03" media-type="application/xhtml+xml"/>
+		<item href="xhtml/Shay_9780307558893_epub3_c16_r1.xhtml" id="c16" media-type="application/xhtml+xml"/>
+		<item href="xhtml/Shay_9780307558893_epub3_c17_r1.xhtml" id="c17" media-type="application/xhtml+xml"/>
+		<item href="xhtml/Shay_9780307558893_epub3_c18_r1.xhtml" id="c18" media-type="application/xhtml+xml"/>
+		<item href="xhtml/Shay_9780307558893_epub3_c19_r1.xhtml" id="c19" media-type="application/xhtml+xml"/>
+		<item href="xhtml/Shay_9780307558893_epub3_p04_r1.xhtml" id="p04" media-type="application/xhtml+xml"/>
+		<item href="xhtml/Shay_9780307558893_epub3_c20_r1.xhtml" id="c20" media-type="application/xhtml+xml"/>
+		<item href="xhtml/Shay_9780307558893_epub3_c21_r1.xhtml" id="c21" media-type="application/xhtml+xml"/>
+		<item href="xhtml/Shay_9780307558893_epub3_c22_r1.xhtml" id="c22" media-type="application/xhtml+xml"/>
+		<item href="xhtml/Shay_9780307558893_epub3_p05_r1.xhtml" id="p05" media-type="application/xhtml+xml"/>
+		<item href="xhtml/Shay_9780307558893_epub3_c23_r1.xhtml" id="c23" media-type="application/xhtml+xml"/>
+		<item href="xhtml/Shay_9780307558893_epub3_c24_r1.xhtml" id="c24" media-type="application/xhtml+xml"/>
+		<item href="xhtml/Shay_9780307558893_epub3_c25_r1.xhtml" id="c25" media-type="application/xhtml+xml"/>
+		<item href="xhtml/Shay_9780307558893_epub3_p06_r1.xhtml" id="p06" media-type="application/xhtml+xml"/>
+		<item href="xhtml/Shay_9780307558893_epub3_c26_r1.xhtml" id="c26" media-type="application/xhtml+xml"/>
+		<item href="xhtml/Shay_9780307558893_epub3_c27_r1.xhtml" id="c27" media-type="application/xhtml+xml"/>
+		<item href="xhtml/Shay_9780307558893_epub3_c28_r1.xhtml" id="c28" media-type="application/xhtml+xml"/>
+		<item href="xhtml/Shay_9780307558893_epub3_c29_r1.xhtml" id="c29" media-type="application/xhtml+xml"/>
+		<item href="xhtml/Shay_9780307558893_epub3_p07_r1.xhtml" id="p07" media-type="application/xhtml+xml"/>
+		<item href="xhtml/Shay_9780307558893_epub3_c30_r1.xhtml" id="c30" media-type="application/xhtml+xml"/>
+		<item href="xhtml/Shay_9780307558893_epub3_c31_r1.xhtml" id="c31" media-type="application/xhtml+xml"/>
+		<item href="xhtml/Shay_9780307558893_epub3_c32_r1.xhtml" id="c32" media-type="application/xhtml+xml"/>
+		<item href="xhtml/Shay_9780307558893_epub3_c33_r1.xhtml" id="c33" media-type="application/xhtml+xml"/>
+		<item href="xhtml/Shay_9780307558893_epub3_c34_r1.xhtml" id="c34" media-type="application/xhtml+xml"/>
+		<item href="xhtml/Shay_9780307558893_epub3_app_r1.xhtml" id="app" media-type="application/xhtml+xml"/>
+		<item href="xhtml/Shay_9780307558893_epub3_ack_r1.xhtml" id="ack" media-type="application/xhtml+xml"/>
+		<item href="xhtml/Shay_9780307558893_epub3_nts_r1.xhtml" id="nts" media-type="application/xhtml+xml"/>
+		<item href="xhtml/Shay_9780307558893_epub3_bm1_r1.xhtml" id="bm1" media-type="application/xhtml+xml"/>
+		<item href="xhtml/Shay_9780307558893_epub3_cre_r1.xhtml" id="cre" media-type="application/xhtml+xml"/>
+		<item href="css/9780307558893_style.css" id="css" media-type="text/css"/>
+		<item href="css/prhStyle.css" id="css1" media-type="text/css"/>
+		<item href="css/prhStyle-media-queries.css" id="css2" media-type="text/css"/>
+		<item href="images/9780307558893_cover.jpg" id="cover-image" media-type="image/jpeg" properties="cover-image"/>
+		<item href="images/9780307558893_title_page.jpg" id="ftp" media-type="image/jpeg"/>
+		<item href="images/Shay_9780679781592_all_1p_r4_Page_028_Image_0001.jpg" id="Page_028_Image_0001" media-type="image/jpeg"/>
+		<item href="images/Shay_9780679781592_all_1p_r4_Page_031_Image_0001.jpg" id="Page_031_Image_0001" media-type="image/jpeg"/>
+		<item href="images/Shay_9780679781592_all_1p_r4_Page_032_Image_0001.jpg" id="Page_032_Image_0001" media-type="image/jpeg"/>
+		<item href="images/Shay_9780679781592_all_1p_r4_Page_034_Image_0001.jpg" id="Page_034_Image_0001" media-type="image/jpeg"/>
+		<item href="images/Shay_9780679781592_all_1p_r4_Page_041_Image_0001.jpg" id="Page_041_Image_0001" media-type="image/jpeg"/>
+		<item href="images/Shay_9780679781592_all_1p_r4_Page_042_Image_0001.jpg" id="Page_042_Image_0001" media-type="image/jpeg"/>
+		<item href="images/Shay_9780679781592_all_1p_r4_Page_043_Image_0001.jpg" id="Page_043_Image_0001" media-type="image/jpeg"/>
+		<item href="images/Shay_9780679781592_all_1p_r4_Page_047_Image_0001.jpg" id="Page_047_Image_0001" media-type="image/jpeg"/>
+		<item href="images/Shay_9780679781592_all_1p_r4_Page_048_Image_0001.jpg" id="Page_048_Image_0001" media-type="image/jpeg"/>
+		<item href="images/Shay_9780679781592_all_1p_r4_Page_052_Image_0001.jpg" id="Page_052_Image_0001" media-type="image/jpeg"/>
+		<item href="images/Shay_9780679781592_all_1p_r4_Page_053_Image_0001.jpg" id="Page_053_Image_0001" media-type="image/jpeg"/>
+		<item href="images/Shay_9780679781592_all_1p_r4_Page_055_Image_0001.jpg" id="Page_055_Image_0001" media-type="image/jpeg"/>
+		<item href="images/Shay_9780679781592_all_1p_r4_Page_056_Image_0001.jpg" id="Page_056_Image_0001" media-type="image/jpeg"/>
+		<item href="images/Shay_9780679781592_all_1p_r4_Page_059_Image_0001.jpg" id="Page_059_Image_0001" media-type="image/jpeg"/>
+		<item href="images/Shay_9780679781592_all_1p_r4_Page_063_Image_0001.jpg" id="Page_063_Image_0001" media-type="image/jpeg"/>
+		<item href="images/Shay_9780679781592_all_1p_r4_Page_064_Image_0001.jpg" id="Page_064_Image_0001" media-type="image/jpeg"/>
+		<item href="images/Shay_9780679781592_all_1p_r4_Page_069_Image_0001.jpg" id="Page_069_Image_0001" media-type="image/jpeg"/>
+		<item href="images/Shay_9780679781592_all_1p_r4_Page_070_Image_0001.jpg" id="Page_070_Image_0001" media-type="image/jpeg"/>
+		<item href="images/Shay_9780679781592_all_1p_r4_Page_071_Image_0001.jpg" id="Page_071_Image_0001" media-type="image/jpeg"/>
+		<item href="images/Shay_9780679781592_all_1p_r4_Page_072_Image_0001.jpg" id="Page_072_Image_0001" media-type="image/jpeg"/>
+		<item href="images/Shay_9780679781592_all_1p_r4_Page_073_Image_0001.jpg" id="Page_073_Image_0001" media-type="image/jpeg"/>
+		<item href="images/Shay_9780679781592_all_1p_r4_Page_074_Image_0001.jpg" id="Page_074_Image_0001" media-type="image/jpeg"/>
+		<item href="images/Shay_9780679781592_all_1p_r4_Page_075_Image_0001.jpg" id="Page_075_Image_0001" media-type="image/jpeg"/>
+		<item href="images/Shay_9780679781592_all_1p_r4_Page_078_Image_0001.jpg" id="Page_078_Image_0001" media-type="image/jpeg"/>
+		<item href="images/Shay_9780679781592_all_1p_r4_Page_079_Image_0001.jpg" id="Page_079_Image_0001" media-type="image/jpeg"/>
+		<item href="images/Shay_9780679781592_all_1p_r4_Page_080_Image_0001.jpg" id="Page_080_Image_0001" media-type="image/jpeg"/>
+		<item href="images/Shay_9780679781592_all_1p_r4_Page_082_Image_0001.jpg" id="Page_082_Image_0001" media-type="image/jpeg"/>
+		<item href="images/Shay_9780679781592_all_1p_r4_Page_083_Image_0001.jpg" id="Page_083_Image_0001" media-type="image/jpeg"/>
+		<item href="images/Shay_9780679781592_all_1p_r4_Page_096_Image_0001.jpg" id="Page_096_Image_0001" media-type="image/jpeg"/>
+		<item href="images/Shay_9780679781592_all_1p_r4_Page_099_Image_0001.jpg" id="Page_099_Image_0001" media-type="image/jpeg"/>
+		<item href="images/Shay_9780679781592_all_1p_r4_Page_099_Image_0002.jpg" id="Page_099_Image_0002" media-type="image/jpeg"/>
+		<item href="images/Shay_9780679781592_all_1p_r4_Page_101_Image_0001.jpg" id="Page_101_Image_0001" media-type="image/jpeg"/>
+		<item href="images/Shay_9780679781592_all_1p_r4_Page_103_Image_0001.jpg" id="Page_103_Image_0001" media-type="image/jpeg"/>
+		<item href="images/Shay_9780679781592_all_1p_r4_Page_104_Image_0001.jpg" id="Page_104_Image_0001" media-type="image/jpeg"/>
+		<item href="images/Shay_9780679781592_all_1p_r4_Page_110_Image_0001.jpg" id="Page_110_Image_0001" media-type="image/jpeg"/>
+		<item href="images/Shay_9780679781592_all_1p_r4_Page_126_Image_0001.jpg" id="Page_126_Image_0001" media-type="image/jpeg"/>
+		<item href="images/Shay_9780679781592_all_1p_r4_Page_132_Image_0001.jpg" id="Page_132_Image_0001" media-type="image/jpeg"/>
+		<item href="images/Shay_9780679781592_all_1p_r4_Page_141_Image_0001.jpg" id="Page_141_Image_0001" media-type="image/jpeg"/>
+		<item href="images/Shay_9780679781592_all_1p_r4_Page_170_Image_0001.jpg" id="Page_170_Image_0001" media-type="image/jpeg"/>
+		<item href="images/Shay_9780679781592_all_1p_r4_Page_191_Image_0001.jpg" id="Page_191_Image_0001" media-type="image/jpeg"/>
+		<item href="images/Shay_9780679781592_all_1p_r4_Page_192_Image_0001.jpg" id="Page_192_Image_0001" media-type="image/jpeg"/>
+		<item href="images/Shay_9780679781592_all_1p_r4_Page_200_Image_0001.jpg" id="Page_200_Image_0001" media-type="image/jpeg"/>
+		<item href="images/Shay_9780679781592_all_1p_r4_Page_215_Image_0001.jpg" id="Page_215_Image_0001" media-type="image/jpeg"/>
+		<item href="images/Shay_9780679781592_all_1p_r4_Page_241_Image_0001.jpg" id="Page_241_Image_0001" media-type="image/jpeg"/>
+		<item href="images/Shay_9780679781592_all_1p_r4_Page_242_Image_0001.jpg" id="Page_242_Image_0001" media-type="image/jpeg"/>
+		<item href="images/Shay_9780679781592_all_1p_r4_Page_243_Image_0001.jpg" id="Page_243_Image_0001" media-type="image/jpeg"/>
+		<item href="images/Shay_9780679781592_all_1p_r4_Page_245_Image_0001.jpg" id="Page_245_Image_0001" media-type="image/jpeg"/>
+		<item href="images/Shay_9780679781592_all_1p_r4_Page_247_Image_0001.jpg" id="Page_247_Image_0001" media-type="image/jpeg"/>
+		<item href="images/Shay_9780679781592_all_1p_r4_Page_253_Image_0001.jpg" id="Page_253_Image_0001" media-type="image/jpeg"/>
+		<item href="images/Shay_9780679781592_all_1p_r4_Page_360_Image_0001.jpg" id="Page_360_Image_0001" media-type="image/jpeg"/>
+		<item href="images/Shay_9780679781592_all_1p_r4_Page_369_Image_0001.jpg" id="Page_369_Image_0001" media-type="image/jpeg"/>
+		<item href="images/Shay_9780679781592_all_1p_r4_Page_387_Image_0001.jpg" id="Page_387_Image_0001" media-type="image/jpeg"/>
+		<item href="images/Shay_9780679781592_all_1p_r4_Page_422_Image_0001.jpg" id="Page_422_Image_0001" media-type="image/jpeg"/>
+		<item href="images/Shay_9780679781592_all_1p_r4_Page_441_Image_0001.jpg" id="Page_441_Image_0001" media-type="image/jpeg"/>
+		<item href="images/Shay_9780679781592_all_1p_r4_Page_464_Image_0001.jpg" id="Page_464_Image_0001" media-type="image/jpeg"/>
+		<item href="images/Shay_9780679781592_all_1p_r4_Page_483_Image_0001.jpg" id="Page_483_Image_0001" media-type="image/jpeg"/>
+		<item href="images/Shay_9780679781592_all_1p_r4_Page_507_Image_0001.jpg" id="Page_507_Image_0001" media-type="image/jpeg"/>
+		<item href="images/Shay_9780679781592_all_1p_r4_Page_510_Image_0001.jpg" id="Page_510_Image_0001" media-type="image/jpeg"/>
+		<item href="images/Shay_9780679781592_all_1p_r4_Page_523_Image_0001.jpg" id="Page_523_Image_0001" media-type="image/jpeg"/>
+		<item href="images/Shay_9780679781592_all_1p_r4_Page_iii_Image_0001.jpg" id="Page_iii_Image_0001" media-type="image/jpeg"/>
+		<item href="fonts/Shift-BoldItalic.otf" id="Shift-BoldItalic.otf" media-type="font/otf"/>
+		<item href="fonts/Shift-Light.otf" id="Shift-Light.otf" media-type="font/otf"/>
+		<item href="images/next-reads_logo.jpg" id="next-reads_logo.jpg" media-type="image/jpeg"/>
+		<item href="xhtml/next-reads.xhtml" id="next-reads.xhtml" media-type="application/xhtml+xml"/>
+	</manifest>
+	<spine toc="ncx">
+		<itemref idref="cvi"/>
+		<itemref idref="fm1"/>
+		<itemref idref="ata"/>
+		<itemref idref="tp"/>
+		<itemref idref="cop"/>
+		<itemref idref="ded"/>
+		<itemref idref="toc"/>
+		<itemref idref="p01"/>
+		<itemref idref="c01"/>
+		<itemref idref="c02"/>
+		<itemref idref="c03"/>
+		<itemref idref="c04"/>
+		<itemref idref="c05"/>
+		<itemref idref="c06"/>
+		<itemref idref="c07"/>
+		<itemref idref="p02"/>
+		<itemref idref="c08"/>
+		<itemref idref="c09"/>
+		<itemref idref="c10"/>
+		<itemref idref="c11"/>
+		<itemref idref="c12"/>
+		<itemref idref="c13"/>
+		<itemref idref="c14"/>
+		<itemref idref="c15"/>
+		<itemref idref="p03"/>
+		<itemref idref="c16"/>
+		<itemref idref="c17"/>
+		<itemref idref="c18"/>
+		<itemref idref="c19"/>
+		<itemref idref="p04"/>
+		<itemref idref="c20"/>
+		<itemref idref="c21"/>
+		<itemref idref="c22"/>
+		<itemref idref="p05"/>
+		<itemref idref="c23"/>
+		<itemref idref="c24"/>
+		<itemref idref="c25"/>
+		<itemref idref="p06"/>
+		<itemref idref="c26"/>
+		<itemref idref="c27"/>
+		<itemref idref="c28"/>
+		<itemref idref="c29"/>
+		<itemref idref="p07"/>
+		<itemref idref="c30"/>
+		<itemref idref="c31"/>
+		<itemref idref="c32"/>
+		<itemref idref="c33"/>
+		<itemref idref="c34"/>
+		<itemref idref="app"/>
+		<itemref idref="ack"/>
+		<itemref idref="nts"/>
+		<itemref idref="bm1"/>
+		<itemref idref="cre"/>
+		<itemref idref="next-reads.xhtml"/>
+	</spine>
+	<guide>
+		<reference href="xhtml/Shay_9780307558893_epub3_cvi_r1.xhtml" title="Cover" type="cover"/>
+		<reference href="xhtml/Shay_9780307558893_epub3_toc_r1.xhtml" title="Table of Contents" type="toc"/>
+		<reference href="xhtml/Shay_9780307558893_epub3_p01_r1.xhtml" title="Text" type="text"/>
+		<reference href="xhtml/Shay_9780307558893_epub3_ded_r1.xhtml" title="Start" type="start"/>
+		<reference href="xhtml/Shay_9780307558893_epub3_cop_r1.xhtml" title="Copyright" type="copyright-page"/>
+	</guide>
+</package>

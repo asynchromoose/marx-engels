@@ -1,0 +1,41 @@
+/* prhStyle-media-queries.css
+
+v1.4.10 AG: .fixed-box-left and blockquote .fixed-box-left added.
+
+v1.4.9 LLS: blockquote .fixed-box-center now matches prhStyle.css value. The values in the media query do not differ from the standard value.
+This is a work around until we remove the media query CSS completely.
+
+v1.4.8 (version number updated to match prhStyle.css
+NEW in this version: removed blockquote .fixed-box-right style and updated blockquote .fixed-box-center values from 12% to 14%
+ *
+ */
+/* --------------- screen-width overrides --------------- */
+
+@media screen and (min-width:500px) {
+
+	.fixed-box-right {
+		margin-left:52%;
+	}
+
+	blockquote .fixed-box-right {
+	    margin-left: 52%;
+	}
+
+	.fixed-box-center {
+		margin-left:20%;
+		margin-right:20%;
+	}
+
+	blockquote .fixed-box-center {
+	    margin-left: 20%;
+	    margin-right: 20%;
+	}
+
+	.fixed-box-left {
+		margin-right:52%;
+	}
+
+	blockquote .fixed-box-left {
+	    margin-right: 52%;
+	}
+}

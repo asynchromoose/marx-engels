@@ -1,0 +1,202 @@
+.squeeze100{margin: 0 0%;}
+.squeeze40{margin:0 30%;}
+.squeeze50{margin:0 25%;}
+.squeeze60{margin:0 20%;}
+.squeeze70{margin:0 15%;}
+.squeeze80{margin:0 10%;}
+.squeeze90{margin:0 5%;}
+.isqueeze1_1 {width:1em;}
+.isqueeze3_75 {width:3.75em;}
+h1.praise_title
+{
+font-size: 1.5em;
+margin-bottom: 0em;
+margin-top: 0.5em;
+text-align: center;
+font-family:sans-serif;
+}
+h1.praise_title1
+{
+font-size: 1.3em;
+margin-bottom: 2em;
+margin-top: 0em;
+text-align: center;
+font-family:sans-serif;
+color:#bcbdc0;
+}
+h1.toc_title
+{
+font-size: 1.5em;
+margin-bottom: 2em;
+margin-top: 3em;
+text-align: center;
+font-family:sans-serif;
+}
+.crt
+{
+text-align: center;
+font-size: 0.9em;
+}
+p.toc_part1
+{
+text-align:center;
+text-indent:0em;
+margin-top:1em;
+margin-bottom:0.5em;
+font-size:1.2em;
+line-height:1.2;
+font-family:sans-serif;
+}
+p.toc_chap1
+{
+text-align:left;
+text-indent:-4.4%;
+margin-left:4.4%;
+margin-bottom:0.25em;
+}
+p.toc_bm1
+{
+text-align:left;
+text-indent:0em;
+margin-left:5.5%;
+margin-bottom:1em;
+}
+p.toc_fm1
+{
+text-align:left;
+text-indent:0em;
+margin-left:5.5%;
+margin-bottom:1em;
+}
+p.toc_bm2
+{
+text-align:left;
+text-indent:0em;
+margin-left:5.5%;
+margin-bottom:0em;
+}
+h1.part_number
+{
+text-align:center;
+text-indent:0em;
+margin-top:20%;
+margin-bottom:0em;
+font-size:1.1em;
+font-family:sans-serif;
+}
+p.line
+{
+border-bottom: 5px solid #bcbdc0;
+margin:0em 45%;
+}
+h1.part_title
+{
+text-align:center;
+text-indent:0em;
+margin-top:0.5em;
+margin-bottom:0em;
+font-size:1.8em;
+font-family:sans-serif;
+}
+h1.chap_number
+{
+text-align:center;
+text-indent:0em;
+margin-top:2em;
+margin-bottom:0em;
+font-size:1.2em;
+font-family:sans-serif;
+}
+h1.chap_title
+{
+text-align:center;
+text-indent:0em;
+margin-top:0.5em;
+margin-bottom:4em;
+font-size:1.5em;
+font-family:sans-serif;
+}
+h2.head
+{
+text-align:center;
+text-indent:0em;
+margin-top:1.5em;
+margin-bottom:1em;
+font-size:1.2em;
+font-family:sans-serif;
+}
+h3.head
+{
+text-align:center;
+text-indent:0em;
+margin-top:1em;
+margin-bottom:0.2em;
+font-size:1em;
+font-family:sans-serif;
+}
+.figcaption_para
+{
+text-align:center;
+font-size:0.9em;
+}
+.figcaption_para1
+{
+text-align:justify;
+font-size:0.9em;
+}
+.sm
+{
+font-size:0.58em;
+}
+.block
+{
+margin-left:2em;
+margin-right:2em;
+}
+.block1
+{
+margin:0em 2em;
+}
+table.tbl
+{
+margin:0em;
+width:70%;
+}
+table.tbl tr td
+{
+vertical-align:top;
+}
+table.tbl1
+{
+margin:1em 0em;
+width:100%;
+}
+table.tbl1 tr td
+{
+vertical-align:top;
+}
+ul.ul
+{
+padding-left:3.3em;
+}
+h1.bm_title
+{
+font-size: 1.5em;
+margin-bottom: 4em;
+margin-top: 2em;
+text-align: center;
+font-family:sans-serif;
+}
+h1.bm_title1
+{
+font-size: 1.2em;
+margin-bottom: 2em;
+margin-top: 3em;
+text-align: center;
+font-family:sans-serif;
+}
+
+p.note {
+  margin-left:1em;
+  text-indent:-1em;
+}
